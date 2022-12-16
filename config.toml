@@ -14,7 +14,7 @@ disqusShortname = "mujasiyam"
 
 [params]
 author = 'Muja Siyam'
-description = 'Muja Siyam personal website'
+description = 'Muja Siyam personal website,portfolio'
 keywords = 'blog,developer,personal'
 info = ['Full Stack DevSecOps', 'Magician']
 avatarURL = "images/avatar.jpg"
@@ -165,3 +165,33 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
+# french content pages
+[languages.fr-fr]
+languageName = ":fr:"
+title = "Muja Siyam"
+
+[languages.fr-fr.params]
+author = "Muja Siyam"
+info = ['Full Stack DevSecOps', 'Magicien']
+description = "site personnel Muja Siyam"
+keywords = "blog,développeur,personnel,portefeuille"
+
+[[languages.fr-fr.menu.main]]
+name = "Propos"
+weight = 1
+url = "about/"
+
+[[languages.fr-fr.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.fr-fr.menu.main]]
+name = "Projet"
+weight = 3
+url = "projects/"
+
+[[languages.fr-fr.menu.main]]
+name = "Contact"
+weight = 5
+url = "contact/"
