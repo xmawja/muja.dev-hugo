@@ -5,4 +5,10 @@ theme = 'coder'
 # site info
 languageCode = 'en'
 defaultContentLanguage = 'en'
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
 
