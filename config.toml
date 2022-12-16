@@ -2,3 +2,7 @@ baseURL = 'http://muja.dev/'
 languageCode = 'en-us'
 title = 'Muja Siyam'
 theme = 'coder'
+# site info
+languageCode = 'en'
+defaultContentLanguage = 'en'
+
