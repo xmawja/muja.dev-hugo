@@ -102,3 +102,41 @@ category = "categories"
 series = "series"
 tag = "tags"
 author = "authors"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/xmawja/"
+
+[[params.social]]
+name = "Gitlab"
+icon = "fa fa-2x fa-gitlab"
+weight = 2
+url = "https://gitlab.com/xmawja/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/xmawja/"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/mujasiyam/"
+
+[[params.social]]
+name = "Medium"
+icon = "fa fa-2x fa-medium"
+weight = 5
+url = "https://medium.com/@mujasiyam"
+
+[[params.social]]
+name = "RSS"
+icon = "fa fa-2x fa-rss"
+weight = 6
+url = "https://muja.dev/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
