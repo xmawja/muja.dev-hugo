@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'Muja Siyam'
 theme = 'coder'
 # site info
-languageCode = 'en'
 defaultContentLanguage = 'en'
 paginate = 20
 pygmentsStyle = "bw"
