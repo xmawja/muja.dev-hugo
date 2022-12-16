@@ -21,3 +21,5 @@ avatarURL = "images/avatar.jpg"
 gravatar = "contact@muja.dev"
 dateFormat = "January 2, 2006"
 since = 2012
+# Right To Left, language support
+rtl = false
