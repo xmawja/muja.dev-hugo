@@ -195,3 +195,34 @@ url = "projects/"
 name = "Contact"
 weight = 5
 url = "contact/"
+
+# arabic content pages
+[languages.ar-sa]
+languageName = ":sa:"
+title = "موجا صيام"
+
+[languages.ar-sa.params]
+author = "موجا صيام"
+info = ['مهندس برمجيات - متخصص DevSecOps', 'ساحر']
+description = "الموقع الشخصي ل موجا صيام"
+keywords = "مدونة,مطور,شخصي,بوابة"
+
+[[languages.ar-sa.menu.main]]
+name = "عني"
+weight = 1
+url = "about/"
+
+[[languages.ar-sa.menu.main]]
+name = "المدونة"
+weight = 2
+url = "posts/"
+
+[[languages.ar-sa.menu.main]]
+name = "مشاريع"
+weight = 3
+url = "projects/"
+
+[[languages.ar-sa.menu.main]]
+name = "اتصل بي"
+weight = 5
+url = "contact/"
