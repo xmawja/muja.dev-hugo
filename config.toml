@@ -12,3 +12,12 @@ enableEmoji = true
 # Enable Disqus comments
 disqusShortname = "mujasiyam"
 
+[params]
+author = 'Muja Siyam'
+description = 'Muja Siyam personal website'
+keywords = 'blog,developer,personal'
+info = ['Full Stack DevSecOps', 'Magician']
+avatarURL = "images/avatar.jpg"
+gravatar = "contact@muja.dev"
+dateFormat = "January 2, 2006"
+since = 2012
