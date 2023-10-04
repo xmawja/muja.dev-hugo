@@ -24,7 +24,7 @@ since = 2012
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://api.github.com/repos/xmawja/muja.dev/git/refs/heads/main"
 # Right To Left, language support
-rtl = false
+rtl = true
 # Specify light/dark colorscheme
 # Supported values:
 # "auto" (use preference set by browser)
